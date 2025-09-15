@@ -1,4 +1,4 @@
-# tweedreimagined.com
+# [tweedreimagined.com](https://www.tweedreimagined.com/)
 
 This project focuses on a proposed redesign of Tweed Airport. By using web scraping techniques on Yelp and Google reviews, applying reverse image search with AI, and developing Python-based data analysis models, I created a proposal to fix negative passenger experience. Based on my findings, I recommended the addition of three retail stores and one restaurant to the airport.
 
@@ -7,7 +7,7 @@ Restaurant: Pepe's Pizza
 
 Current Retail/Food department of Tweed Airport: Two Cafe's - Grazing Goat, G Café
 
-I built this website: [tweedreimagined.com](url) to compile my findings and process!
+I built this website: [tweedreimagined.com](https://www.tweedreimagined.com/) to compile my findings and process!
 
 <img width="1512" height="838" alt="Screenshot 2025-09-15 at 3 15 39 PM" src="https://github.com/user-attachments/assets/86868b1f-e8db-4c24-830f-fc8fa721aa7c" />
 <img width="1511" height="842" alt="Screenshot 2025-09-15 at 3 15 49 PM" src="https://github.com/user-attachments/assets/fe9ba7b7-1d39-4209-bf02-db373ee5db8c" />
