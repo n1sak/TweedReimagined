@@ -1,4 +1,4 @@
-# [tweedreimagined.com](url)
+# tweedreimagined.com
 
 This project focuses on a proposed redesign of Tweed Airport. By using web scraping techniques on Yelp and Google reviews, applying reverse image search with AI, and developing Python-based data analysis models, I created a proposal to fix negative passenger experience. Based on my findings, I recommended the addition of three retail stores and one restaurant to the airport.
 
